@@ -5,7 +5,7 @@ function connectionObj()
         user:"postgres",
         host:"localhost",
         database:"playerdb",
-        password:"parth6019",
+        password:"#",
         port:5432,
         max:20,
     });
